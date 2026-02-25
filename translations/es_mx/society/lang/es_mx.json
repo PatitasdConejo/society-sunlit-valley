@@ -1,8 +1,8 @@
 {
-	"block.society.aging_cask": "",
-	"block.society.ancient_cask": "",
-	"block.society.ancient_cider": "",
-	"block.society.ancient_fruit_crate": "",
+	"block.society.aging_cask": "Barril de maduración",
+	"block.society.ancient_cask": "Barril milenario",
+	"block.society.ancient_cider": "Sidra milenaria",
+	"block.society.ancient_fruit_crate": "Caja de fruta milenaria",
 	"block.society.ancient_goddess_statue": "",
 	"block.society.ancient_vespertine": "",
 	"block.society.animal_feed_sack": "",
